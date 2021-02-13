@@ -1,0 +1,14 @@
+Package:
+Name:
+Version: 1.0
+Architecture: iphoneos-arm
+Description:
+Maintainer: FloridaMan (floridaman7588@gmail.com)
+Author: FloridaMan
+Section:
+Depends:
+Filename: debs/
+Size:
+MD5sum:
+SHA1:
+SHA256: 
