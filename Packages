@@ -1,14 +1,14 @@
-Package:
-Name:
+Package: com.floridaman.example
+Name: Example Package
 Version: 1.0
 Architecture: iphoneos-arm
-Description:
+Description: A filler package to be used as an example.
 Maintainer: FloridaMan (floridaman7588@gmail.com)
 Author: FloridaMan
-Section:
+Section: Tweaks
 Depends:
-Filename: debs/
-Size:
+Filename: debs/example.deb
+Size: 10000
 MD5sum:
 SHA1:
-SHA256: 
+SHA256:
