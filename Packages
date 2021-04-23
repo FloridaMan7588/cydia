@@ -1,11 +1,11 @@
-Package: com.floridaman.example
-Name: Example Package
-Version: 1.0
+Package: com.floridaman.empty
+Name: Package Does Not Exist
+Version: 0
 Architecture: iphoneos-arm
-Description: A filler package to be used as an example.
+Description: A package that does not exist but is used as filler
 Maintainer: FloridaMan (floridaman7588@gmail.com)
 Author: FloridaMan
-Section: Tweaks
+Section: 
 Depends:
 Filename: debs/example.deb
 Size: 10000
